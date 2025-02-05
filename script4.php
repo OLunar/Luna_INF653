@@ -1,6 +1,6 @@
 <?php
 // Input student's marks
-$marks = 85; // change this value to test different inputs
+$marks = 85; // You can change this value to test different inputs
 
 // Assign grade based on marks
 if ($marks >= 90) {

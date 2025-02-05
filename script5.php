@@ -17,7 +17,7 @@ function isLeapYear($year) {
 }
 
 // Input year
-$year = 2024; // change this value to test different inputs
+$year = 2024; // You can change this value to test different inputs
 
 // Check if the year is a leap year
 if (isLeapYear($year)) {
